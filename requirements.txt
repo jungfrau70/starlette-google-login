@@ -19,6 +19,5 @@ email-validator
 easyrpc
 google-api-python-client
 easyschedule
-fcntl
 aiosqlite
 easy-auth[server]
